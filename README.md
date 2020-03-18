@@ -25,3 +25,5 @@ For more information refer to the `Help` -> `JupyterLab Reference` or visit [the
 ## 2. Austrian Datacube examples
 
 This repository contains self documenting notebooks on how to use the `datacube` package for raster data querying and manipulation. Some notebooks are extended with the `acube_functions` for providing easier access and possibilities to desired functionalities. The functions can be manually extended or can be outright skipped for more control over the `datacube`.
+
+For more information on the Austrian Data Cube project, visit [the ACube wiki](https://austriandatacube.eodc.eu/xwiki/bin/view/Main/)
